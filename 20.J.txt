@@ -1,0 +1,1 @@
+Muestra todos aquellos ficheros de texto los cuales empiezen por cualquier letra y que las siguientes sean asa.
